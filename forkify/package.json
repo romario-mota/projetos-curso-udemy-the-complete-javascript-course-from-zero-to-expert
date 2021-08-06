@@ -1,0 +1,21 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Romário Mota",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.0.0-nightly.651",
+    "parcel": "2.0.0-nightly.649"
+  },
+  "dependencies": {
+    "core-js": "^3.16.0",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
